@@ -3,3 +3,74 @@ a{
     color: black;
     font-weight: 700;
 }
+.containar{
+    display: flex;
+}
+body{
+    background-color: rgb(119, 69, 166);
+}
+.cont-1{
+    border-radius: 10px;
+    border: 2px solid rgb(228, 226, 226);
+    height: 310px;
+    width: 30%;
+    margin-top: 200px;
+    margin-left: 2px;
+    background-color: rgb(107, 71, 23);
+    color: white;
+}
+button{
+    background-color: rgb(73, 184, 73);
+    color: white;
+    border-radius: 5px;
+    border: 2px solid white;
+    margin-left: 190px;
+}
+img{
+    height: 150px;
+    width: 100%;
+    border-radius: 10px;
+}
+.cont-i{
+     border-radius: 10px;
+    border: 2px solid rgb(228, 226, 226);
+    height: 330px;
+    width: 30%;
+    margin-left: 12px;
+    margin-top: 10px;
+    background-color: rgb(107, 71, 23);
+    color: white;
+}
+.cont-ii{
+     border-radius: 10px;
+    border: 2px solid rgb(228, 226, 226);
+    height: 330px;
+    width: 30%;
+    margin-left: 12px;
+    margin-top: 10px;
+    background-color: rgb(107, 71, 23);
+    color: white;
+}
+.cont-iii{
+     border-radius: 10px;
+    border: 2px solid rgb(228, 226, 226);
+    height: 330px;
+    width: 30%;
+    margin-left: 12px;
+    margin-top: 10px;
+    background-color: rgb(107, 71, 23);
+    color: white;
+}
+.cont-2{
+     border-radius: 10px;
+    border: 2px solid rgb(255, 242, 242);
+    height: 600px;
+    width: 67%;
+    display: flex;
+    margin-left: 5px;
+    background-color: rgb(107, 71, 23);
+    color: white;
+}
+.lorem{
+    margin-left: 4px;
+}
